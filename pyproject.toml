@@ -1,7 +1,7 @@
 [project]
-name = "speedy-typers"
+name = "message-board"
 version = "0.1.0"
-description = "Message board com suporte a postagens de múltiplos usuários e imagens"
+description = "Message Board"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
